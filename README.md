@@ -6,22 +6,11 @@ Repository ini akan menjadi pusat sumber daya untuk dosen, memudahkan akses dan 
 /
 ├── README.md
 ├── Courses/
-│   ├── Course_A/
-│   │   ├── Lecture_Notes/
-│   │   ├── Assignments/
-│   │   ├── Exams/
-│   │   └── Projects/
-│   └── Course_B/
 │       ├── Lecture_Notes/
 │       ├── Assignments/
 │       ├── Exams/
 │       └── Projects/
 ├── Research/
-│   ├── Topic_A/
-│   │   ├── Papers/
-│   │   ├── Data/
-│   │   └── Scripts/
-│   └── Topic_B/
 │       ├── Papers/
 │       ├── Data/
 │       └── Scripts/
