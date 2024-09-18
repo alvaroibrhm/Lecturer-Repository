@@ -1,0 +1,27 @@
+{
+    "Course_A": {
+      "Syllabus": {
+        "Course Outline": "Course_A/Syllabus/course_outline.pdf",
+        "Learning Objectives": "Course_A/Syllabus/learning_objectives.md"
+      },
+      "Lecture_Notes": {
+        "Week 1 Introduction": "Course_A/Lecture_Notes/week1_introduction.pptx",
+        "Week 2 Topic": "Course_A/Lecture_Notes/week2_topic.pdf"
+      },
+      "Assignments": {
+        "Assignment 1": "Course_A/Assignments/assignment1_description.docx",
+        "Assignment 2 Rubric": "Course_A/Assignments/assignment2_rubric.pdf"
+      },
+      "Exams": {
+        "Midterm Study Guide": "Course_A/Exams/midterm_study_guide.pdf",
+        "Final Exam Questions": "Course_A/Exams/final_exam_questions.docx"
+      },
+      "Projects": {
+        "Group Project Guidelines": "Course_A/Projects/group_project_guidelines.md",
+        "Final Project Rubric": "Course_A/Projects/final_project_rubric.pdf"
+      }
+    },
+    "Course_B": {
+
+    }
+  }
