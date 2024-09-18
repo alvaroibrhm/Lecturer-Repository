@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecturer Repository</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 10px; }
+        #content { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lecturer Repository</h1>
+        <nav>
+            <ul>
+                <li><a href="#" onclick="loadContent('courses')">Courses</a></li>
+                <li><a href="#" onclick="loadContent('research')">Research</a></li>
+                <li><a href="#" onclick="loadContent('administration')">Administration</a></li>
+                <li><a href="#" onclick="loadContent('collaboration')">Collaboration</a></li>
+                <li><a href="#" onclick="loadContent('resources')">Resources</a></li>
+                <li><a href="#" onclick="loadContent('students')">Students</a></li>
+            </ul>
+        </nav>
+        <div id="content">
+            Welcome to the Lecturer Repository. Click on a section to view its contents.
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
