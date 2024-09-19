@@ -30,7 +30,7 @@ Repository ini akan menjadi pusat sumber daya untuk dosen, memudahkan akses dan 
 - Data: Kumpulan data yang digunakan dalam penelitian.
 - Scripts: Naskah atau kode yang digunakan untuk analisis data atau penelitian lainnya.
 
-###### ✨Administration: Berisi file dan dokumen yang berkaitan dengan administrasi, seperti jadwak kelas, silabus, dan formulir administrasi lainnya.
+###### ✨Administration: Berisi file dan dokumen yang berkaitan dengan administrasi, seperti jadwal kelas, silabus, dan formulir administrasi lainnya.
 ###### ✨Collaboration: Direktori untuk proyek-proyek kolaborasi antar dosen atau dengan institusi lain.
 
 
