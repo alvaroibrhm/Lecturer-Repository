@@ -5,7 +5,8 @@ Repository ini akan menjadi pusat sumber daya untuk dosen, memudahkan akses dan 
 ```
 /
 ├── README.md
-├── Courses/
+├── Directories/
+|       ├── Courses
 │       ├── Lecture_Notes/
 │       ├── Assignments/
 │       ├── Exams/
