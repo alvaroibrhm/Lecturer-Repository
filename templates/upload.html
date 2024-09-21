@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload File</title>
+</head>
+<body>
+    <h1>Upload File</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <label for="directory">Select Directory:</label>
+        <select name="directory" id="directory">
+            {% for dir in dirs %}
+                <option value="{{ dir }}">{{ dir }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label for="file">Select File:</label>
+        <input type="file" name="file" id="file"><br><br>
+
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>
